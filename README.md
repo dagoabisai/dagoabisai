@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dagoabisai
+- 👀 I’m interested in ...data science and analytics!
+- I excel in various aspects of data analytics, showcasing expertise in SQL for streamlined database management, Python for comprehensive data manipulation and analysis Jupyter Notebook for collaborative and interactive coding.
+- My analytical thinking skills empower me to extract meaningful insights from intricate dataset!
+- 📫 How to reach me ... on Linkedin. www.linkedin.com/in/dago-barbosa-a67808185
